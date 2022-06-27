@@ -12,4 +12,6 @@ https://www.linkedin.com/sales/search/people?query=(spellCorrectionEnabled%3Atru
 into the following output:
 
 
-![image](https://user-images.githubusercontent.com/22025520/175935602-a59294f0-3136-4b07-ab29-61ee853941bd.png)
+ 
+![image](https://user-images.githubusercontent.com/22025520/175935792-62aac9b7-6a65-40de-8ef1-af4061d47af2.png)
+
